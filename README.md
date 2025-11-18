@@ -1,4 +1,4 @@
-# mavenjava**
+# mavenjava project**
 maven
 go to eclipse
 Create a Maven Project - > File - > New -> Maven Project!
